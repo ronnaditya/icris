@@ -1,0 +1,4 @@
+python_docx==0.8.10
+selenium==3.141.0
+pandas==0.24.2
+docx==0.2.4
